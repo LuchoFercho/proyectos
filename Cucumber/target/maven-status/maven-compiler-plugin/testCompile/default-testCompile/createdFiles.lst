@@ -1,0 +1,4 @@
+com\accenture\Cucumber\steps\DefinitionSteps.class
+com\accenture\Cucumber\pages\DictionaryPage.class
+com\accenture\Cucumber\steps\serenity\EndUserSteps.class
+com\accenture\Cucumber\DefinitionTestSuite.class
